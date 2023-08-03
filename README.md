@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and Devops**
 
-- 💬 Ask me about **Frontend, Docker,**
+- 💬 Ask me about **Frontend, devops,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
