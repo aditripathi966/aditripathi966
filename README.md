@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://github.com/aditripathi966)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
